@@ -56,10 +56,7 @@ JMeter
 
 ## 压测效果
 优化前 ：开启1000个线程循环10次同时访问，QPS = 423 
-![优化前](https://github.com/zaiyunduan123/jesper_seckill/blob/master/src/main/resources/static/img/stress-test/goodsList_test_3.png)
 优化后：QPS = 2501
-![优化后](https://github.com/zaiyunduan123/jesper_seckill/blob/master/src/main/resources/static/img/stress-test/optimised_goodslist.png)
-
 -----
 
 本项目主要是学习了SpringBoot,Redis和RabbitMQ之后，用于巩固所学的知识，做的一个简单的秒杀项目。
